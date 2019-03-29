@@ -1,0 +1,12 @@
+{"id" : "119", "city" :  "boston", "km": "2"}
+{"id" : "118", "city" :  "Patterson", "km": "4"}
+{"id" : "118", "city" :  "boston", "km": "9"}
+{"id" : "117", "city" :  "boston", "km": "12"}
+{"id" : "112", "city" :  "boston", "km": "120"}
+{"id" : "114", "city" :  "Nenania", "km": "1"}
+{"id" : "114", "city" :  "Lod", "km": "1"}
+{"id" : "112", "city" :  "Riga", "km": "65"}
+{"id" : "114", "city" :  "Bonn", "km": "1"}
+{"id" : "112", "city" :  "Neapol", "km": "77"}
+{"id" : "112", "city" :  "Rim", "km": "77"}
+{"id" : "114", "city" :  "Lod", "km": "20"}
